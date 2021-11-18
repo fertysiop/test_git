@@ -1,0 +1,33 @@
+*{
+  color: black;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr td{
+  height: 125px;
+  text-align: center;
+}
+
+.baton {
+  background-color: bisque;
+  width: 10px;
+}
+.cell1 {
+  background-color: red;
+}
+.cell2 {
+  background-color: blue;
+}
+.cell3 {
+  background-color: yellow;
+}
+.cell4 {
+  background-color: green;
+}
